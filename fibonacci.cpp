@@ -4,7 +4,7 @@ int fib(int);
 int main()
 {
 	int n,i;
-	printf("Enter the number: ");
+	printf("Enter the numbers: ");
 	scanf("%d",&n);
 	printf("Fibonacci series: ");
 	for(i=0;i<n;i++)
